@@ -1,4 +1,4 @@
-# react-typescript-boilerplate
+# react-typescript-boilerplate From Scratch
 
 ### Get Started.
  - clone the repository 
